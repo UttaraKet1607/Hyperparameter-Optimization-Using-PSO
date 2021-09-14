@@ -6,6 +6,12 @@ This code uses Particle Swarm Optimization to optimize CNN network hyperparamete
 
 Particle Swarm Optimizer recommends using the personal best (pbest) and global best (gbest) and hence is less likely to become stuck in local minima. So, it does not suffer from premature convergence.
 
+About the data: The images are in colored format and are divided into 2 classes namely: Parasitized and Uninfected.
+This data is then divided into train and test data.
+Total images : 27,558
+Images for training : 22,046
+Images for test  : 5,512
+
 System flowhart:
 
 ![Capture](https://user-images.githubusercontent.com/67593609/133240381-a78e2a84-16e1-450c-bd8e-56b680b6a940.PNG)
