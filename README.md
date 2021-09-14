@@ -7,4 +7,5 @@ This code uses Particle Swarm Optimization to optimize CNN network hyperparamete
 Particle Swarm Optimizer recommends using the personal best (pbest) and global best (gbest) and hence is less likely to become stuck in local minima. So, it does not suffer from premature convergence.
 
 System flowhart:
+
 ![Capture](https://user-images.githubusercontent.com/67593609/133240381-a78e2a84-16e1-450c-bd8e-56b680b6a940.PNG)
